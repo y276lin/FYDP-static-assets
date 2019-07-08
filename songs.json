@@ -1,62 +1,62 @@
 {
     "songs": [
         {
-            "uri": "https://mudio.herokuapp.com/songs/000001.mp3",
-            "coverImage": "https://mudio.herokuapp.com/songs/000001.jpg",
+            "uri": "https://github.com/y276lin/FYDP-static-assets/blob/master/000001.mp3?raw=true",
+            "coverImage": "https://github.com/y276lin/FYDP-static-assets/blob/master/000001.jpg?raw=true",
             "artist": "Rae Sremmurd",
             "name": "Black Beattles"
         },
         {
-            "uri": "https://mudio.herokuapp.com/songs/000002.mp3",
-            "coverImage": "https://mudio.herokuapp.com/songs/000002.jpg",
+            "uri": "https://github.com/y276lin/FYDP-static-assets/blob/master/000002.mp3?raw=true",
+            "coverImage": "https://github.com/y276lin/FYDP-static-assets/blob/master/000002.jpg?raw=true",
             "artist": "Drake",
             "name": "Hotline Bling"
         },
         {
-            "uri": "https://mudio.herokuapp.com/songs/000003.mp3",
-            "coverImage": "https://mudio.herokuapp.com/songs/000003.jpg",
+            "uri": "https://github.com/y276lin/FYDP-static-assets/blob/master/000003.mp3?raw=true",
+            "coverImage": "https://github.com/y276lin/FYDP-static-assets/blob/master/000003.jpg?raw=true",
             "artist": "The Weekend",
             "name": "Starboy"
         },
         {
-            "uri": "https://mudio.herokuapp.com/songs/000004.mp3",
-            "coverImage": "https://mudio.herokuapp.com/songs/000004.jpg",
+            "uri": "https://github.com/y276lin/FYDP-static-assets/blob/master/000004.mp3?raw=true",
+            "coverImage": "https://github.com/y276lin/FYDP-static-assets/blob/master/000004.jpg?raw=true",
             "artist": "Ed Sheeran",
             "name": "Supermarket Flowers"
         },
         {
-            "uri": "https://mudio.herokuapp.com/songs/000005.mp3",
-            "coverImage": "https://mudio.herokuapp.com/songs/000005.jpg",
+            "uri": "https://github.com/y276lin/FYDP-static-assets/blob/master/000005.mp3?raw=true",
+            "coverImage": "https://github.com/y276lin/FYDP-static-assets/blob/master/000005.jpg?raw=true",
             "artist": "The Rolling Stones",
             "name": "Like a Rolling Stone"
         },
         {
-            "uri": "https://mudio.herokuapp.com/songs/000006.mp3",
-            "coverImage": "https://mudio.herokuapp.com/songs/000006.jpg",
+            "uri": "https://github.com/y276lin/FYDP-static-assets/blob/master/000006.mp3?raw=true",
+            "coverImage": "https://github.com/y276lin/FYDP-static-assets/blob/master/000006.jpg?raw=true",
             "artist": "Emmy Rossum",
             "name": "Think of Me"
         },
         {
-            "uri": "https://mudio.herokuapp.com/songs/000007.mp3",
-            "coverImage": "https://mudio.herokuapp.com/songs/000007.jpg",
+            "uri": "https://github.com/y276lin/FYDP-static-assets/blob/master/000007.mp3?raw=true",
+            "coverImage": "https://github.com/y276lin/FYDP-static-assets/blob/master/000007.jpg?raw=true",
             "artist": "Coldplay",
             "name": "Yellow"
         },
         {
-            "uri": "https://mudio.herokuapp.com/songs/000008.mp3",
-            "coverImage": "https://mudio.herokuapp.com/songs/000008.jpg",
+            "uri": "https://github.com/y276lin/FYDP-static-assets/blob/master/000008.mp3?raw=true",
+            "coverImage": "https://github.com/y276lin/FYDP-static-assets/blob/master/000008.jpg?raw=true",
             "artist": "Eagles",
             "name": "Hotel California"
         },
         {
-            "uri": "https://mudio.herokuapp.com/songs/000009.mp3",
-            "coverImage": "https://mudio.herokuapp.com/songs/000009.jpg",
+            "uri": "https://github.com/y276lin/FYDP-static-assets/blob/master/000009.mp3?raw=true",
+            "coverImage": "https://github.com/y276lin/FYDP-static-assets/blob/master/000009.jpg?raw=true",
             "artist": "Fools Garden",
             "name": "Lemon Tree"
         }, 
         {
-            "uri": "https://mudio.herokuapp.com/songs/000010.mp3",
-            "coverImage": "https://mudio.herokuapp.com/songs/000010.jpg",
+            "uri": "https://github.com/y276lin/FYDP-static-assets/blob/master/000010.mp3?raw=true",
+            "coverImage": "https://github.com/y276lin/FYDP-static-assets/blob/master/000010.jpg?raw=true",
             "artist": "Michael Jackson",
             "name": "Billie Jean"
         }
